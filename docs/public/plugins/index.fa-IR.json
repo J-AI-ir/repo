@@ -1,0 +1,887 @@
+{
+    "schemaVersion": 1,
+    "plugins": [
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-12-31",
+            "homepage": "https://j-ai.ir",
+            "identifier": "mintbasesearch",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/logo.webp",
+                "description": "هر داده NFT را در پروتکل NEAR پیدا کنید.",
+                "tags": [
+                    "کریپتو",
+                    "NFT"
+                ],
+                "title": "جستجوی مینت بیس",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-12-22",
+            "homepage": "https://j-ai.ir",
+            "identifier": "StockData",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/stock-data/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
+                "description": "سهام را تحلیل کنید و داده‌ها و تحلیل‌های جامع و بلادرنگ سرمایه‌گذاری را دریافت کنید.",
+                "tags": [
+                    "سهام"
+                ],
+                "title": "پورتفولیو متا",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-12-02",
+            "homepage": "https://j-ai.ir",
+            "identifier": "speak",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/speak/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/speak/logo.webp",
+                "description": "یاد بگیرید که چگونه هر چیزی را به زبان دیگری بگویید با صحبت کن، معلم زبان هوش مصنوعی شما.",
+                "tags": [
+                    "آموزش",
+                    "زبان"
+                ],
+                "title": "صحبت کن",
+                "category": "science-education"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-12-02",
+            "homepage": "https://j-ai.ir",
+            "identifier": "google-cse",
+            "locale": "en-US",
+            "manifest": "https://google-cse-lobechat.vercel.app/manifest.json",
+            "meta": {
+                "avatar": "https://banner2.cleanpng.com/20180413/rfe/avfci721i.webp",
+                "tags": [
+                    "وب",
+                    "جستجو"
+                ],
+                "title": "جستجوی سفارشی گوگل",
+                "description": "از طریق API رسمی جستجوی سفارشی گوگل، جستجو کنید.",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-08-09",
+            "homepage": "https://j-ai.ir",
+            "identifier": "alps-tongyi-image",
+            "locale": "en-US",
+            "manifest": "https://alps-tongyi-image.vercel.app/manifest.json",
+            "meta": {
+                "avatar": "🎉",
+                "tags": [
+                    "تصویر",
+                    "تونگی",
+                    "وانشیانگ"
+                ],
+                "title": "ژنراتور تصویر Tongyi Wanxiang",
+                "description": "این افزونه از مدل Tongyi Wanxiang علی‌بابا برای تولید تصاویر بر اساس متن‌های ورودی استفاده می‌کند.",
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-07-19",
+            "homepage": "https://j-ai.ir",
+            "identifier": "ShoppingTools",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/logo.webp",
+                "description": "محصولات را در eBay و AliExpress جستجو کنید، رویدادها و کوپن‌های eBay را پیدا کنید. نمونه‌های سریع دریافت کنید.",
+                "tags": [
+                    "خرید",
+                    "e-bay",
+                    "ali-express",
+                    "کوپن‌ها"
+                ],
+                "title": "ابزارهای خرید",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-06-27",
+            "homepage": "https://j-ai.ir",
+            "identifier": "savvy_trader_ai",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
+                "description": "داده‌های لحظه‌ای سهام، ارز دیجیتال و سایر سرمایه‌گذاری‌ها.",
+                "tags": [
+                    "سهام",
+                    "تحلیل"
+                ],
+                "title": "تاجر هوشمند AI",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-05-06",
+            "homepage": "https://j-ai.ir",
+            "identifier": "search1api",
+            "manifest": "https://lobehub.search1api.com/manifest.json",
+            "meta": {
+                "avatar": "https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg",
+                "tags": [
+                    "وب",
+                    "جستجو"
+                ],
+                "title": "Search1API",
+                "description": "خدمات تجمیع جستجو، به‌طور خاص برای LLMها طراحی شده است",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-04-30",
+            "homepage": "https://j-ai.ir",
+            "identifier": "search-engine-serper",
+            "manifest": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/manifest.json",
+            "meta": {
+                "avatar": "https://serper.dev/favicon.ico",
+                "description": "موتور جستجوی گوگل از طریق API سرپر.dev (2500 بار اول رایگان)",
+                "tags": [
+                    "وب",
+                    "جستجو"
+                ],
+                "title": "جستجوی گوگل از طریق سرپر",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-04-03",
+            "homepage": "https://j-ai.ir",
+            "identifier": "nftguru",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/nftguru/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/nftguru/logo.webp",
+                "description": "قیمت‌های فعلی NFTها را در پلتفرم‌های بزرگ کشف کنید و با تغییرات سریع بازار به‌صورت زنده پیگیری کنید",
+                "tags": [
+                    "کریپتو",
+                    "NFT"
+                ],
+                "title": "گورو NFT",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-03-13",
+            "homepage": "https://j-ai.ir",
+            "identifier": "calendar-assistant",
+            "manifest": "https://www.ccalendar.space/manifest-calendar.json",
+            "meta": {
+                "avatar": "📅",
+                "tags": [
+                    "تقویم",
+                    "برنامه‌ریزی",
+                    "به‌طور-خودکار-i-18-n-را-در-جریان-کار-تولید-خواهد-کرد"
+                ],
+                "title": "دستیار تقویم",
+                "description": "یک افزونه برای مدیریت رویدادهای تقویم شما # به طور خودکار i18n را در جریان کار تولید خواهد کرد",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-27",
+            "homepage": "https://j-ai.ir",
+            "identifier": "steam",
+            "manifest": "https://steam.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "https://steam.chat-plugin.lobehub.com/logo.webp",
+                "tags": [
+                    "استیم",
+                    "بازی"
+                ],
+                "title": "استیم",
+                "description": "اطلاعات بازی و نظرات کاربران را از استیم دریافت کنید.",
+                "category": "gaming-entertainment"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-27",
+            "homepage": "https://j-ai.ir",
+            "identifier": "bilibili",
+            "manifest": "https://bilibili.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
+                "tags": [
+                    "ویدیو",
+                    "بیلی بیلی",
+                    "جستجو"
+                ],
+                "title": "بیلی بیلی",
+                "description": "به محتوای وسیع بیلی بیلی بپردازید با ویژگی‌هایی مانند جستجوی ویدیو با کلمه کلیدی، دسترسی به بازپخش، دنباله‌دار تعاملی، پیشنهادات ویدیوهای داغ و بینش‌های جستجوی داغ، همه در دسترس شما.",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-26",
+            "homepage": "https://j-ai.ir",
+            "identifier": "current-datetime-assistant",
+            "manifest": "https://www.ccalendar.space/manifest-currentTime.json",
+            "meta": {
+                "avatar": "⏰",
+                "tags": [
+                    "زمان"
+                ],
+                "title": "دستیار زمان کنونی",
+                "description": "یک افزونه برای ارائه اطلاعات زمان کنونی",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "levinbot",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/levinbot/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
+                "description": "جستجوی مقالات پژوهشی و متون سخنرانی‌ها از آزمایشگاه دکتر مایکل لوین.",
+                "tags": [
+                    "مقاله پژوهشی",
+                    "جستجو"
+                ],
+                "title": "لدوین‌بات",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "uberchord",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/uberchord/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/uberchord/logo.webp",
+                "description": "نقشه‌های آکورد گیتار را با مشخص کردن نام آکورد پیدا کنید.",
+                "tags": [
+                    "موسیقی",
+                    "گیتار",
+                    "جستجو"
+                ],
+                "title": "اوبرکورد",
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "uptime",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/uptime/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
+                "description": "آدرس وب‌سایت خود را وارد کنید تا دسترسی آن را بررسی کنید. پلستیک زمان فعالیت، دسترسی و عملکرد وب‌سایت را آزمایش می‌کند.",
+                "tags": [
+                    "وب‌سایت",
+                    "عملکرد",
+                    "آزمایش"
+                ],
+                "title": "بررسی وضعیت وب‌سایت",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "access_google_sheets",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/logo.webp",
+                "description": "سوالات خود را درباره گوگل شیت بپرسید و با اکسل چت کنید. لینک گوگل درایو را وارد کنید تا شروع کنید!",
+                "tags": [
+                    "گوگل",
+                    "شیت",
+                    "اکسل"
+                ],
+                "title": "دسترسی به گوگل شیت",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "ssfineart",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/logo.webp",
+                "description": "یک دستیار تحقیقاتی که مجموعه‌ای از URI ها را به نمونه‌های هنرهای زیبا که توسط کاربر درخواست شده است، بازمی‌گرداند.",
+                "tags": [
+                    "هنر",
+                    "هنرهای زیبا",
+                    "جستجو"
+                ],
+                "title": "هنرهای زیبا سوپر استاک",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "MixerBox_Podcasts",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/logo.webp",
+                "description": "به راحتی پادکست‌ها را جستجو کنید! پادکست‌هایی را در زمینه‌های جامعه، ورزش، کسب و کار، اخبار، موسیقی و بیشتر کاوش کنید!",
+                "tags": [
+                    "پادکست",
+                    "جستجو"
+                ],
+                "title": "میکسرباکس پادکست‌ها",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "MixerBox_Translate_AI_language_tutor",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/logo.webp",
+                "description": "هر زبانی را به سرعت ترجمه کنید! به راحتی زبان‌های خارجی را با گفتگو با معلمان هوش مصنوعی یاد بگیرید!",
+                "tags": [
+                    "ترجمه"
+                ],
+                "title": "مترجم میکسر باکس",
+                "category": "science-education"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "seo_assistant",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
+                "description": "دستیار سئو می‌تواند اطلاعات کلیدواژه‌های موتور جستجو را برای کمک به ایجاد محتوا تولید کند.",
+                "tags": [
+                    "سئو",
+                    "کلیدواژه"
+                ],
+                "title": "دستیار سئو",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "AladinSearchBooks",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
+                "description": "برای جستجوی کتاب‌ها در الادین.",
+                "tags": [
+                    "کتاب",
+                    "جستجو"
+                ],
+                "title": "کتاب‌های الادین",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-25",
+            "homepage": "https://j-ai.ir",
+            "identifier": "MixerBox_Weather",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/logo.webp",
+                "description": "به‌روزرسانی‌ها و پیش‌بینی‌های آب و هوای جهانی را به‌صورت آنی دریافت کنید!",
+                "tags": [
+                    "آب و هوا"
+                ],
+                "title": "میکسر باکس آب و هوا",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "litmaps",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/litmaps/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/litmaps/logo.webp",
+                "description": "در کاوش ادبیات علمی به شما کمک می‌کند. مقالات مرتبط را پیدا کنید و نقشه‌های ذهنی از ادبیات ایجاد کنید.",
+                "tags": [
+                    "ادبیات-علمی",
+                    "جستجو"
+                ],
+                "title": "لیت مپس",
+                "category": "science-education"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "todo",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/logo.webp",
+                "description": "بهترین راهنمایان تور رایگان در جهان اینجا هستند.",
+                "tags": [
+                    "سفر",
+                    "راهنماها"
+                ],
+                "title": "گوروواک",
+                "category": "lifestyle"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "questmate",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/questmate/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/questmate/logo.webp",
+                "description": "فرم‌ها، چک‌لیست‌ها و جریان‌های کاری (که ما آنها را کوئست می‌نامیم!) ایجاد کنید که می‌توانید به آنها اختصاص دهید، زمان‌بندی کنید یا عمومی کنید.",
+                "tags": [
+                    "فرم‌ها",
+                    "چک‌لیست‌ها",
+                    "بهره‌وری"
+                ],
+                "title": "فرم‌های کوئست‌میت",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "Video_summary",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-summary/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
+                "description": "خلاصه نکات ویدیوهای یوتیوب. تولید خلاصه‌ها از URLهای ویدیوهای یوتیوب.",
+                "tags": [
+                    "ویدیو به متن",
+                    "یوتیوب"
+                ],
+                "title": "خلاصه ویدیو",
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "VideoCaptions",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-captions/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-captions/logo.webp",
+                "description": "لینک‌های یوتیوب را به متن تبدیل کنید، امکان پرسش سوالات را فعال کنید، فصل‌ها را ایجاد کنید و محتوای آن را خلاصه کنید.",
+                "tags": [
+                    "ویدیو-به-متن",
+                    "یوتیوب"
+                ],
+                "title": "زیرنویس ویدیو",
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "GameSight",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/game-sight/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+                "description": "بازی‌ها، محتوای مرتبط با بازی، دریافت توصیه‌ها و مقایسه بازی‌ها بر اساس نظرات بازیکنان را کشف کنید.",
+                "tags": [
+                    "بازی",
+                    "جستجو"
+                ],
+                "title": "گیم‌سایت",
+                "category": "gaming-entertainment"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "SEO",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
+                "description": "هر URL و کلمه کلیدی را وارد کنید و تحلیل و بینش سئو درون صفحه را دریافت کنید!",
+                "tags": [
+                    "سئو"
+                ],
+                "title": "SEO",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-23",
+            "homepage": "https://j-ai.ir",
+            "identifier": "travelmyth",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
+                "description": "جستجوی هتل شخصی‌سازی شده با Travelmyth، ارائه‌دهنده 60 دسته منحصر به فرد برای تطابق کامل.",
+                "tags": [
+                    "سفر",
+                    "هتل",
+                    "جستجو"
+                ],
+                "title": "Travelmyth",
+                "category": "lifestyle"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-22",
+            "homepage": "https://j-ai.ir",
+            "identifier": "defillama",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/defillama/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/logo.webp",
+                "description": "داده‌های مربوط به پروتکل‌های دیفای و بلاک‌چین‌ها را بازیابی کنید.",
+                "tags": [
+                    "کریپتو",
+                    "دیفای"
+                ],
+                "title": "دفیلاما",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-22",
+            "homepage": "https://j-ai.ir",
+            "identifier": "nonprofits",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
+                "description": "سازمان‌های غیرانتفاعی تأثیرگذار را برای حمایت در جامعه و فراتر از آن کشف کنید.",
+                "tags": [
+                    "خیریه"
+                ],
+                "title": "تغییر",
+                "category": "social"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-18",
+            "homepage": "https://j-ai.ir",
+            "identifier": "midjourney",
+            "manifest": "https://midjourney.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "https://cdn.discordapp.com/icons/662267976984297473/39128f6c9fc33f4c95a27d4c601ad7db.webp",
+                "title": "میدجرنی",
+                "description": "خلاقیت را با میدجرنی آزاد کنید و به راحتی تصاویر منحصر به فردی را با استفاده از هوش مصنوعی و از طریق دستورات ساده تولید کنید. با لمس هنری میدجرنی، به گفتگوهای خود جذابیت بصری اضافه کنید.",
+                "tags": [
+                    "تولید تصویر با هوش مصنوعی",
+                    "میدجرنی",
+                    "تصویرسازی"
+                ],
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "gitUserRepoStats",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/github-stats/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/github-stats/logo.webp",
+                "description": "به طور دینامیک آمار و تاریخچه برای مخازن و توسعه‌دهندگان OSS را تولید و تحلیل کنید.",
+                "tags": [
+                    "گیت‌هاب",
+                    "OSS"
+                ],
+                "title": "آمار OSS گیت",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "web_search",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/web-search/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+                "description": "جستجو برای اطلاعات از اینترنت",
+                "tags": [
+                    "جستجو",
+                    "پلاگساکر"
+                ],
+                "title": "جستجوی وب",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "assetOvi",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/logo.webp",
+                "description": "جستجو و پیش‌نمایش میلیون‌ها دارایی سه‌بعدی برای بازی‌ها، AIGC، AR/VR و دیگران.",
+                "tags": [
+                    "سه‌بعدی",
+                    "دارایی‌ها",
+                    "جستجو"
+                ],
+                "title": "اوی دارایی",
+                "category": "gaming-entertainment"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "astrodaily",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/logo.webp",
+                "description": "جستجو و کشف تصاویر ناسا.",
+                "tags": [
+                    "ناسا",
+                    "جستجو",
+                    "تصویر"
+                ],
+                "title": "آسترو دیلی",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "boolio",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/boolio/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+                "description": "تحلیل سرمایه‌گذاری‌های سهام از هر کشوری با موتور پیشرفته بولیو.",
+                "tags": [
+                    "سهام",
+                    "تحلیل"
+                ],
+                "title": "بولیو سرمایه‌گذاری",
+                "category": "stocks-finance"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2024-01-14",
+            "homepage": "https://j-ai.ir",
+            "identifier": "TikZJax",
+            "manifest": "https://lobe-plugin-tikzjax.arvinx.com/manifest.json",
+            "meta": {
+                "avatar": "📐",
+                "tags": [
+                    "لاتک",
+                    "اس وی جی",
+                    "تجسم",
+                    "نمودار",
+                    "ریاضی"
+                ],
+                "title": "TikZJax",
+                "description": "کد LaTeX TikZ را به تصاویر SVG تبدیل کنید تا نمودارها و تجسم‌های ریاضی با وضوح و مقیاس‌پذیری بالا ایجاد کنید.",
+                "category": "science-education"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-12-19",
+            "homepage": "https://j-ai.ir",
+            "identifier": "moonlit-mind-map",
+            "manifest": "https://mindmap.flowai.one/manifest.json",
+            "meta": {
+                "avatar": "🧠",
+                "tags": [
+                    "نقشه ذهنی"
+                ],
+                "title": "نقشه ذهنی",
+                "description": "یک دستیار برای تولید نقشه ذهنی",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-12-16",
+            "homepage": "https://j-ai.ir",
+            "identifier": "WeatherGPT",
+            "manifest": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/manifest.json",
+            "meta": {
+                "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
+                "description": "اطلاعات وضعیت آب و هوا برای یک مکان خاص را دریافت کنید.",
+                "tags": [
+                    "آب و هوا"
+                ],
+                "title": "وضعیت آب و هوا جی پی تی",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-12-10",
+            "homepage": "https://j-ai.ir",
+            "identifier": "pollinations-drawing",
+            "manifest": "https://pollinations.ai-chat.top/manifest.json",
+            "meta": {
+                "avatar": "🎨",
+                "tags": [
+                    "ترسیم",
+                    "تصویر"
+                ],
+                "title": "ترسیم گرده‌افشانی",
+                "description": "تولید تصاویر از طریق pollinations.ai",
+                "category": "media-generate"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-11-01",
+            "homepage": "https://j-ai.ir",
+            "identifier": "clock-time",
+            "manifest": "https://clock-time.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "🕐",
+                "tags": [
+                    "ساعت",
+                    "زمان"
+                ],
+                "title": "زمان ساعت",
+                "description": "نمایش ساعتی برای نشان دادن زمان کنونی",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-08-17",
+            "homepage": "https://j-ai.ir",
+            "identifier": "website-crawler",
+            "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "🕸",
+                "tags": [
+                    "وب",
+                    "خزنده محتوا"
+                ],
+                "title": "خزنده وبسایت",
+                "description": "استخراج محتوا از لینک‌های وب",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-08-15",
+            "homepage": "https://j-ai.ir",
+            "identifier": "search-engine",
+            "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "🔍",
+                "tags": [
+                    "وب",
+                    "جستجو"
+                ],
+                "title": "موتور جستجو",
+                "description": "پرس و جو از موتور جستجو برای دریافت اطلاعات",
+                "category": "web-search"
+            },
+            "schemaVersion": 1
+        },
+        {
+            "author": "J-AI-ir",
+            "createdAt": "2023-08-12",
+            "homepage": "https://j-ai.ir",
+            "identifier": "realtime-weather",
+            "manifest": "https://realtime-weather.chat-plugin.lobehub.com/manifest.json",
+            "meta": {
+                "avatar": "🌈",
+                "tags": [
+                    "هوا",
+                    "لحظه‌ای"
+                ],
+                "title": "هواشناسی لحظه‌ای",
+                "description": "دریافت اطلاعات هواشناسی لحظه‌ای",
+                "category": "tools"
+            },
+            "schemaVersion": 1
+        }
+    ],
+    "tags": [
+        "جستجو",
+        "وب",
+        "کریپتو",
+        "سهام",
+        "تصویر"
+    ]
+}

@@ -1,14 +1,11 @@
-# directory = "/Users/javid/Projects/lobe/repo/public/agents"  # Change this to your actual path
-# new_author = "JAI"
+# directory = "/Users/javid/Projects/lobe/repo/docs/public/plugins"  # Update this to the correct directory path
+# new_author = "J-AI-ir"
 # new_homepage = "https://j-ai.ir"
 
 import os
 import json
 
-# Define the directory containing JSON files
-directory = "/Users/javid/Projects/lobe/repo/docs/public/agents"  # Update this to the correct directory path
-
-# Define new values for "author" and "homepage"
+directory = "/Users/javid/Projects/lobe/repo/docs/public/plugins"  # Update this to the correct directory path
 new_author = "J-AI-ir"
 new_homepage = "https://j-ai.ir"
 
@@ -29,17 +26,40 @@ for filename in os.listdir(directory):
             with open(filepath, "r") as file:
                 data = json.load(file)
 
-            # Update "author" and "homepage" values if they exist
+            # Check for different formats and update "author" and "homepage"
+            updated = False
+
+            # 1. Format with "plugins" list
+            if "plugins" in data:
+                for plugin in data["plugins"]:
+                    if "author" in plugin:
+                        plugin["author"] = new_author
+                    if "homepage" in plugin:
+                        plugin["homepage"] = new_homepage
+                updated = True
+
+            # 2. Format with "agents" list
+            if "agents" in data:
+                for agent in data["agents"]:
+                    if "author" in agent:
+                        agent["author"] = new_author
+                    if "homepage" in agent:
+                        agent["homepage"] = new_homepage
+                updated = True
+
+            # 3. Top-level "author" and "homepage"
             if "author" in data:
                 data["author"] = new_author
+                updated = True
             if "homepage" in data:
                 data["homepage"] = new_homepage
+                updated = True
 
-            # Save the updated JSON file
-            with open(filepath, "w") as file:
-                json.dump(data, file, indent=4, ensure_ascii=False)
-            
-            print(f"Updated: {filename}")
+            # Save the updated JSON file if any field was updated
+            if updated:
+                with open(filepath, "w") as file:
+                    json.dump(data, file, indent=4, ensure_ascii=False)
+                print(f"Updated: {filename}")
 
         except json.JSONDecodeError:
             print(f"Error: Invalid JSON in {filename}")
