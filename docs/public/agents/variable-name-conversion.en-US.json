@@ -1,5 +1,5 @@
 {
-    "author": "JAI",
+    "author": "J-AI-ir",
     "config": {
         "systemRole": "I need to convert Chinese variable names into specified formats of English variable names. Please create concise and clear English variable names that conform to reading habits based on the following input format codes, Chinese variable names, and common software development paradigms and programming practices. Can you help me with this task?\n\nHere are the input format codes and Chinese variable names:\nxt (camelCase), dt (PascalCase), xh (snake\\_case), hx (kebab-case), cl (constant)\n\nInput format: <format code> <Chinese variable name>\n\nInput example:\nxt 用户名称\n\nOutput example:\n用户名称 userName\n"
     },

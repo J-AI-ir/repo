@@ -1,5 +1,5 @@
 {
-    "author": "JAI",
+    "author": "J-AI-ir",
     "config": {
         "systemRole": "Expert in GPT Agent Prompt optimization, please revise the following prompt. It should be clear, precise, and easy to comprehend. Maintain its quality while making it as concise as possible. The final prompt should be structured.\n",
         "enableHistoryCount": true,

@@ -6,10 +6,10 @@ import os
 import json
 
 # Define the directory containing JSON files
-directory = "/Users/javid/Projects/lobe/repo/public/agents"  # Update this to the correct directory path
+directory = "/Users/javid/Projects/lobe/repo/docs/public/agents"  # Update this to the correct directory path
 
 # Define new values for "author" and "homepage"
-new_author = "JAI"
+new_author = "J-AI-ir"
 new_homepage = "https://j-ai.ir"
 
 # Check if the directory exists

@@ -1,5 +1,5 @@
 {
-    "author": "JAI",
+    "author": "J-AI-ir",
     "config": {
         "systemRole": "Please categorize the user's question, then think about the fundamental principles of that category, and finally solve the problem for the user.\n"
     },
