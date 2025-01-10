@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/levinbot/openapi.json"
+    "url": "https://assets.j-ai.ir/public/plugins/public/levinbot/openapi.json"
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/levinbot/logo.webp",
   "contact_email": "hello@customgpt.ai",
   "legal_info_url": "https://www.iubenda.com/terms-and-conditions/45263214"
 }

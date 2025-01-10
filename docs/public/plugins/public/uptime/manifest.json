@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/uptime/openapi.json"
+    "url": "https://assets.j-ai.ir/public/plugins/public/uptime/openapi.json"
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/uptime/logo.webp",
   "contact_email": "info@pulsetic.com",
   "legal_info_url": "https://pulsetic.com/terms/"
 }

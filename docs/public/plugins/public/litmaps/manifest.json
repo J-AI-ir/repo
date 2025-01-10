@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/litmaps/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/litmaps/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/litmaps/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/litmaps/logo.webp",
   "contact_email": "support@litmaps.com",
   "legal_info_url": "https://www.litmaps.com/terms-of-service"
 }

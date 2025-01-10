@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/mintbasesearch/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/mintbasesearch/logo.webp",
   "contact_email": "admin@mintbase.xyz",
   "legal_info_url": "https://search-ai.mintbase.xyz/legal"
 }

@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/web-search/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/web-search/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/web-search/logo.webp",
   "contact_email": "support@plugsugar.com",
   "legal_info_url": "https://websearch.plugsugar.com/contact"
 }

@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/access-google-sheets/openapi.json",
     "has_user_authentication": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/access-google-sheets/logo.webp",
   "contact_email": "dominickmalzone@gmail.com",
   "legal_info_url": "https://sheets.accessplugins.com/legal-info"
 }

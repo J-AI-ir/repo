@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/game-sight/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/game-sight/openapi.json",
     "has_user_authentication": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/game-sight/logo.webp",
   "contact_email": "laihongchang@xd.com",
   "legal_info_url": "https://www.taptap.io/doc/13"
 }

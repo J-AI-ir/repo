@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/shopping-tools/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/shopping-tools/logo.webp",
   "contact_email": "topdroidapps@gmail.com",
   "legal_info_url": "https://www.privacypolicygenerator.info/live.php?token=KskRU3nhCHlqwAdPouBj0L6ponFujjKE"
 }

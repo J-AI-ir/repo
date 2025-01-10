@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/mixer-box-weather/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/mixer-box-weather/logo.webp",
   "contact_email": "support@weather.mixerbox.com",
   "legal_info_url": "https://www.mixerbox.com/weatherview"
 }

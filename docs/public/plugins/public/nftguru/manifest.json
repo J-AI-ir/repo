@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/nftguru/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/nftguru/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/nftguru/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/nftguru/logo.webp",
   "contact_email": "team@swap.net",
   "legal_info_url": "https://app.swap.net/privacy"
 }

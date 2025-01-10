@@ -1,7 +1,7 @@
 {
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/space/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/space/openapi.json",
     "is_user_authenticated": false
   },
   "auth": {
@@ -11,7 +11,7 @@
   "description_for_human": "Space data including NASA.",
   "description_for_model": "Plugin to NASA and other space related APIs. The data will include space JSON data. Please provide an initial summary of the space JSON data, help the user understand it, and highlight anything important. Please be as scientific as possible in your responses at all times.",
   "legal_info_url": "https://space.automateyournetwork.ca/.well-known/legal.txt",
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/space/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/space/logo.webp",
   "name_for_human": "Space",
   "name_for_model": "Space",
   "schema_version": "v1"

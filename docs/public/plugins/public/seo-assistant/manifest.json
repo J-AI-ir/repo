@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/seo-assistant/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/seo-assistant/logo.webp",
   "contact_email": "dan@webfx.com",
   "legal_info_url": "https://www.webfx.com/tools/seo-assistant-terms-conditions/"
 }

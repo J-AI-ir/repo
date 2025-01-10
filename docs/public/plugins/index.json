@@ -6,9 +6,9 @@
             "createdAt": "2024-12-31",
             "homepage": "https://j-ai.ir",
             "identifier": "mintbasesearch",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/mintbasesearch/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/mintbasesearch/logo.webp",
                 "description": "Find any NFT data on the NEAR Protocol.",
                 "tags": [
                     "crypto",
@@ -24,9 +24,9 @@
             "createdAt": "2024-12-22",
             "homepage": "https://j-ai.ir",
             "identifier": "StockData",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/stock-data/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/stock-data/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/stock-data/logo.webp",
                 "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
                 "tags": [
                     "stock"
@@ -41,9 +41,9 @@
             "createdAt": "2024-12-02",
             "homepage": "https://j-ai.ir",
             "identifier": "speak",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/speak/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/speak/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/speak/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/speak/logo.webp",
                 "description": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
                 "tags": [
                     "education",
@@ -98,9 +98,9 @@
             "createdAt": "2024-07-19",
             "homepage": "https://j-ai.ir",
             "identifier": "ShoppingTools",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/shopping-tools/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/shopping-tools/logo.webp",
                 "description": "Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.",
                 "tags": [
                     "shopping",
@@ -118,9 +118,9 @@
             "createdAt": "2024-06-27",
             "homepage": "https://j-ai.ir",
             "identifier": "savvy_trader_ai",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/savvy-trader/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/savvy-trader/logo.webp",
                 "description": "Realtime stock, crypto and other investment data.",
                 "tags": [
                     "stock",
@@ -172,9 +172,9 @@
             "createdAt": "2024-04-03",
             "homepage": "https://j-ai.ir",
             "identifier": "nftguru",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/nftguru/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/nftguru/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/nftguru/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/nftguru/logo.webp",
                 "description": "Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time",
                 "tags": [
                     "crypto",
@@ -263,9 +263,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "levinbot",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/levinbot/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/levinbot/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/levinbot/logo.webp",
                 "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
                 "tags": [
                     "research-paper",
@@ -281,9 +281,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "uberchord",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/uberchord/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/uberchord/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/uberchord/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/uberchord/logo.webp",
                 "description": "Find guitar chord diagrams by specifying the chord name.",
                 "tags": [
                     "music",
@@ -300,9 +300,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "uptime",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/uptime/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/uptime/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/uptime/logo.webp",
                 "description": "Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.",
                 "tags": [
                     "website",
@@ -319,9 +319,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "access_google_sheets",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/access-google-sheets/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/access-google-sheets/logo.webp",
                 "description": "Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!",
                 "tags": [
                     "google",
@@ -338,9 +338,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "ssfineart",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/ssfineart/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/ssfineart/logo.webp",
                 "description": "A research assistant that returns a set of URI's to examples of fine art requested by user.",
                 "tags": [
                     "art",
@@ -357,9 +357,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "MixerBox_Podcasts",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/mixer-box-podcasts/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/mixer-box-podcasts/logo.webp",
                 "description": "Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!",
                 "tags": [
                     "podcast",
@@ -375,9 +375,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "MixerBox_Translate_AI_language_tutor",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/mixer-box-translate-ai-language-tutor/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/mixer-box-translate-ai-language-tutor/logo.webp",
                 "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
                 "tags": [
                     "translate"
@@ -392,9 +392,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "seo_assistant",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/seo-assistant/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/seo-assistant/logo.webp",
                 "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
                 "tags": [
                     "seo",
@@ -410,9 +410,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "AladinSearchBooks",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/aladin-search-book/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/aladin-search-book/logo.webp",
                 "description": "Search for books on Aladin.",
                 "tags": [
                     "book",
@@ -428,9 +428,9 @@
             "createdAt": "2024-01-25",
             "homepage": "https://j-ai.ir",
             "identifier": "MixerBox_Weather",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/mixer-box-weather/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/mixer-box-weather/logo.webp",
                 "description": "Get real-time worldwide weather updates & forecasts, instantly!",
                 "tags": [
                     "weather"
@@ -445,9 +445,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "litmaps",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/litmaps/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/litmaps/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/litmaps/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/litmaps/logo.webp",
                 "description": "Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.",
                 "tags": [
                     "scientific-literature",
@@ -463,9 +463,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "todo",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/guru-walk/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/guru-walk/logo.webp",
                 "description": "The best free tour guides in the world are here.",
                 "tags": [
                     "travel",
@@ -481,9 +481,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "questmate",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/questmate/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/questmate/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/questmate/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/questmate/logo.webp",
                 "description": "Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.",
                 "tags": [
                     "forms",
@@ -500,9 +500,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "Video_summary",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-summary/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/video-summary/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/video-summary/logo.webp",
                 "description": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs.",
                 "tags": [
                     "video-to-text",
@@ -518,9 +518,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "VideoCaptions",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-captions/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/video-captions/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-captions/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/video-captions/logo.webp",
                 "description": "Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.",
                 "tags": [
                     "video-to-text",
@@ -536,9 +536,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "GameSight",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/game-sight/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/game-sight/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/game-sight/logo.webp",
                 "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
                 "tags": [
                     "game",
@@ -554,9 +554,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "SEO",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/seo/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/seo/logo.webp",
                 "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
                 "tags": [
                     "seo"
@@ -571,9 +571,9 @@
             "createdAt": "2024-01-23",
             "homepage": "https://j-ai.ir",
             "identifier": "travelmyth",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/travelmyth/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/travelmyth/logo.webp",
                 "description": "Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.",
                 "tags": [
                     "travel",
@@ -590,9 +590,9 @@
             "createdAt": "2024-01-22",
             "homepage": "https://j-ai.ir",
             "identifier": "defillama",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/defillama/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/defillama/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/defillama/logo.webp",
                 "description": "Retrieve data on DeFi protocols and blockchains.",
                 "tags": [
                     "crypto",
@@ -608,9 +608,9 @@
             "createdAt": "2024-01-22",
             "homepage": "https://j-ai.ir",
             "identifier": "nonprofits",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/getchange/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/getchange/logo.webp",
                 "description": "Discover impactful nonprofits to support in your community and beyond.",
                 "tags": [
                     "charity"
@@ -644,9 +644,9 @@
             "createdAt": "2024-01-17",
             "homepage": "https://j-ai.ir",
             "identifier": "gitUserRepoStats",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/github-stats/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/github-stats/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/github-stats/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/github-stats/logo.webp",
                 "description": "Dynamically generate and analyze stats and history for OSS repos and developers.",
                 "tags": [
                     "github",
@@ -662,9 +662,9 @@
             "createdAt": "2024-01-17",
             "homepage": "https://j-ai.ir",
             "identifier": "web_search",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/web-search/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/web-search/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/web-search/logo.webp",
                 "description": "Search for information from the internet",
                 "tags": [
                     "search",
@@ -680,9 +680,9 @@
             "createdAt": "2024-01-17",
             "homepage": "https://j-ai.ir",
             "identifier": "assetOvi",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/asset-ovi/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/asset-ovi/logo.webp",
                 "description": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others.",
                 "tags": [
                     "3-d",
@@ -699,9 +699,9 @@
             "createdAt": "2024-01-17",
             "homepage": "https://j-ai.ir",
             "identifier": "astrodaily",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/astrodaily/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/astrodaily/logo.webp",
                 "description": "Search and discover NASA images.",
                 "tags": [
                     "nasa",
@@ -718,9 +718,9 @@
             "createdAt": "2024-01-17",
             "homepage": "https://j-ai.ir",
             "identifier": "boolio",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/boolio/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/boolio/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/boolio/logo.webp",
                 "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine.",
                 "tags": [
                     "stock",
@@ -774,9 +774,9 @@
             "createdAt": "2023-12-16",
             "homepage": "https://j-ai.ir",
             "identifier": "WeatherGPT",
-            "manifest": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/manifest.json",
+            "manifest": "https://assets.j-ai.ir/public/plugins/public/weather-gpt/manifest.json",
             "meta": {
-                "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
+                "avatar": "https://assets.j-ai.ir/public/plugins/public/weather-gpt/logo.webp",
                 "description": "Get current weather information for a specific location.",
                 "tags": [
                     "weather"

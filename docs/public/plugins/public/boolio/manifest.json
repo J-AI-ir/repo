@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/boolio/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/boolio/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/boolio/logo.webp",
   "contact_email": "ask@boolio.co.kr",
   "legal_info_url": "https://chatgpt.boolio.co.kr/legal"
 }

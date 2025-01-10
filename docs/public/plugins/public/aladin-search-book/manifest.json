@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/aladin-search-book/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/aladin-search-book/logo.webp",
   "contact_email": "ai@aladin.co.kr",
   "legal_info_url": "https://www.aladin.co.kr/account/waccount_provision.aspx?pType=9"
 }

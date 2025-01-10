@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/stock-data/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/stock-data/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/stock-data/logo.webp",
   "contact_email": "michael@portfoliometa.com",
   "legal_info_url": "https://portfoliometa.com/plugin-info"
 }

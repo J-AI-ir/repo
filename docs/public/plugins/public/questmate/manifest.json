@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/questmate/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/questmate/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/questmate/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/questmate/logo.webp",
   "contact_email": "hello@questmate.com",
   "legal_info_url": "http://www.questmate.com/terms"
 }

@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/video-summary/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/video-summary/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/video-summary/logo.webp",
   "contact_email": "support@sparticle.com",
   "legal_info_url": "https://glarity.app/privacy-policy/edit"
 }

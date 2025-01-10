@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/travelmyth/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/travelmyth/logo.webp",
   "contact_email": "ai@travelmyth.com",
   "legal_info_url": "https://www.travelmyth.com/terms"
 }

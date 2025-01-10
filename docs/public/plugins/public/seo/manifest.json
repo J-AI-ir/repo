@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/seo/openapi.json",
+    "url": "https://assets.j-ai.ir/public/plugins/public/seo/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
+  "logo_url": "https://assets.j-ai.ir/public/plugins/public/seo/logo.webp",
   "contact_email": "hello@orrenprunckun.com",
   "legal_info_url": "https://seo-plugin.orrenprunckun.com/terms.php"
 }
