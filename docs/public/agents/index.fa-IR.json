@@ -199,23 +199,6 @@
             "author": "J-AI-ir",
             "createdAt": "2024-11-26",
             "homepage": "https://j-ai.ir",
-            "identifier": "translation-assistant",
-            "meta": {
-                "avatar": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Memo/3D/memo_3d.png",
-                "description": "این یک ابزار ترکیبی از ترجمه و فونتیک است که به منظور کمک به یادگیری بهتر کلمات در حین ترجمه طراحی شده است.",
-                "tags": [
-                    "ترجمه",
-                    "یادگیری زبان"
-                ],
-                "title": "همه 译英助手（带音标）",
-                "category": "translation"
-            },
-            "schemaVersion": 1
-        },
-        {
-            "author": "J-AI-ir",
-            "createdAt": "2024-11-26",
-            "homepage": "https://j-ai.ir",
             "identifier": "xiaohongshu",
             "meta": {
                 "avatar": "🤦‍♀️",
@@ -1726,23 +1709,6 @@
             "author": "J-AI-ir",
             "createdAt": "2024-09-23",
             "homepage": "https://j-ai.ir",
-            "identifier": "translate-perfect",
-            "meta": {
-                "avatar": "💪",
-                "description": "دستیار ترجمه بدون خطا",
-                "tags": [
-                    "ترجمه",
-                    "چینی-انگلیسی"
-                ],
-                "title": "ترجمه کامل[چینی-انگلیسی;انگلیسی-چینی]",
-                "category": "translation"
-            },
-            "schemaVersion": 1
-        },
-        {
-            "author": "J-AI-ir",
-            "createdAt": "2024-09-23",
-            "homepage": "https://j-ai.ir",
             "identifier": "py-master-id",
             "meta": {
                 "avatar": "🐍",
@@ -3133,22 +3099,6 @@
                 ],
                 "title": "متخصص Git با ویژگی‌های دستیار هوش مصنوعی",
                 "category": "programming"
-            },
-            "schemaVersion": 1
-        },
-        {
-            "author": "J-AI-ir",
-            "createdAt": "2024-06-03",
-            "homepage": "https://j-ai.ir",
-            "identifier": "noveltranslation",
-            "meta": {
-                "avatar": "🤖",
-                "description": "ترجمه دوباره رمان",
-                "tags": [
-                    "ترجمه"
-                ],
-                "title": "ترجمه رمان از انگلیسی به چینی",
-                "category": "translation"
             },
             "schemaVersion": 1
         },

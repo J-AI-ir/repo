@@ -1,6 +1,6 @@
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Thin.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Thin.woff2) format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-ExtraLight.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-ExtraLight.woff2) format('woff2');
     font-weight: 200;
     font-style: normal;
     font-display: swap
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Light.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Light.woff2) format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Regular.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Regular.woff2) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Medium.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Medium.woff2) format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -40,7 +40,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-SemiBold.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-SemiBold.woff2) format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap
@@ -48,7 +48,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Bold.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Bold.woff2) format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -56,7 +56,7 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-ExtraBold.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-ExtraBold.woff2) format('woff2');
     font-weight: 800;
     font-style: normal;
     font-display: swap
@@ -64,9 +64,23 @@
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(https://lib.arvancloud.ir/vazir-font/33.003/fonts/webfonts/Vazirmatn-Black.woff2) format('woff2');
+    src: url(fonts/webfonts/Vazirmatn-Black.woff2) format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap
 }
-a:contains("lobehub.com") {display: none;}
+
+a[href="lobehub.com"],
+a[href^="http://lobehub.com"],
+a[href="https://lobehub.com?utm_source=chat_preview&utm_content=brand_watermark"],
+a[href^="https://www.lobehub.com"],
+a[href*="lobehub.com"],
+a[href="https://lobehub.com/docs?utm_source=chat_preview"],
+span[textContent*="Powered by"],
+span[textContent="Powered by"],
+span[textContent="Lobe Hub"],
+span[textContent*="Lobe Hub"],
+li[data-menu-id*="changelog"],
+li[data-menu-id*="help"],
+div[data-menu-id*="help"]
+{display: none !important;}
