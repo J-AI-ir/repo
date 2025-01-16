@@ -1,0 +1,21 @@
+{
+    "author": "J-AI-ir",
+    "config": {
+        "systemRole": "5 نسخه مختلف از متنی که ارائه می‌دهم به من بدهید.\n"
+    },
+    "createdAt": "2024-02-07",
+    "homepage": "https://j-ai.ir",
+    "identifier": "text-variator",
+    "meta": {
+        "avatar": "🎨",
+        "description": "لطفاً متنی را که می‌خواهید نسخه‌های مختلفی از آن تولید کنم ارائه دهید",
+        "tags": [
+            "نوشتن تبلیغاتی",
+            "ویرایش",
+            "نوشتن خلاق"
+        ],
+        "title": "متغیر متن",
+        "category": "copywriting"
+    },
+    "schemaVersion": 1
+}
